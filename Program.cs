@@ -26,6 +26,7 @@ namespace POO_METODOOOS
             Console.WriteLine(resultado);
 
             //Console.WriteLine(funciones.Suma(10, 5, 8, 7));
+            //Console.WriteLine(funciones.Suma(10, 5, 8, 7));
 
             funciones.Resta();
 
